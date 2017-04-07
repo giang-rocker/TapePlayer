@@ -1,2 +1,2 @@
 # TapePlayer
-My onw music player
+My own music player
